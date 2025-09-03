@@ -1,0 +1,19 @@
+body { 
+    margin: 0; 
+    height: 100vh;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: rgb(124, 119, 119);    
+}
+
+.clockcountainer {  
+    font-size: larger; 
+    color: blueviolet; 
+    background-color: rgb(16, 13, 22);   
+    padding: 2rem;  
+    border-radius: 10px; 
+    border: 2px solid black;  
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+}
